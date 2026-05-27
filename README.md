@@ -1,7 +1,5 @@
 # Ahoj, já jsem Viteccek1 👋
 
-Jsem student a nadšenec do technologií, který se aktuálně zaměřuje na webový vývoj a programování v C#. Rád tvořím věci, které dávají smysl a vypadají k světu.
-
 ### 🛠️ Na čem pracuji
 - 👨‍💻 Aktuálně piluji své dovednosti v **HTML, CSS a C#**.
 - 🏫 Pracuji na školních projektech jako je můj **osobní dashboard** a **školní web**.
